@@ -1,0 +1,109 @@
+Feature count= 1
+Nearest Centroid -- Training Set -- Mean 0.5032379935954447 -- Min 0.5026982946777636 -- Max 0.503723691311387
+Nearest Centroid -- Test Set -- Mean 0.5032380856551686 -- Min 0.4988667026443605 -- Max 0.5080958549222798
+Linear SVM -- Training Set -- Mean 0.5335671885752807 -- Min 0.5330215266534748 -- Max 0.5342927385021287
+Linear SVM -- Test Set -- Mean 0.5335672071331408 -- Min 0.5270372369131139 -- Max 0.5384781435509984
+Decision Tree -- Training Set -- Mean 0.5335671885752807 -- Min 0.5330215266534748 -- Max 0.5342927385021287
+Decision Tree -- Test Set -- Mean 0.5335672071331408 -- Min 0.5270372369131139 -- Max 0.5384781435509984
+Naive Bayes -- Training Set -- Mean 0.5335671885752807 -- Min 0.5330215266534748 -- Max 0.5342927385021287
+Naive Bayes -- Test Set -- Mean 0.5335672071331408 -- Min 0.5270372369131139 -- Max 0.5384781435509984
+------------------------------------------------------------
+Feature count= 2
+Nearest Centroid -- Training Set -- Mean 0.5122935786870839 -- Min 0.5114229177909696 -- Max 0.5130658991425316
+Nearest Centroid -- Test Set -- Mean 0.5122936351221609 -- Min 0.5053426875337291 -- Max 0.5201295196977874
+Linear SVM -- Training Set -- Mean 0.5375715054385377 -- Min 0.537177396143145 -- Max 0.5380168857334741
+Linear SVM -- Test Set -- Mean 0.537571487199215 -- Min 0.5335635657241529 -- Max 0.5411180660479171
+Decision Tree -- Training Set -- Mean 0.5375715054385377 -- Min 0.537177396143145 -- Max 0.5380168857334741
+Decision Tree -- Test Set -- Mean 0.537571487199215 -- Min 0.5335635657241529 -- Max 0.5411180660479171
+Naive Bayes -- Training Set -- Mean 0.5375715054385377 -- Min 0.537177396143145 -- Max 0.5380168857334741
+Naive Bayes -- Test Set -- Mean 0.537571487199215 -- Min 0.5335635657241529 -- Max 0.5411180660479171
+------------------------------------------------------------
+Feature count= 5
+Nearest Centroid -- Training Set -- Mean 0.5392780476700048 -- Min 0.533609162319362 -- Max 0.5477483959944834
+Nearest Centroid -- Test Set -- Mean 0.5385968817455983 -- Min 0.5297355639503508 -- Max 0.5532649757150566
+Linear SVM -- Training Set -- Mean 0.5511806688229514 -- Min 0.5503441824766747 -- Max 0.5518978233495233
+Linear SVM -- Test Set -- Mean 0.5511819059283725 -- Min 0.5448461953588775 -- Max 0.5580742659758203
+Decision Tree -- Training Set -- Mean 0.5520501294839607 -- Min 0.5512316216151393 -- Max 0.5528212508244889
+Decision Tree -- Test Set -- Mean 0.5504587507851391 -- Min 0.5432271991365354 -- Max 0.5583981001727115
+Naive Bayes -- Training Set -- Mean 0.5506997659753139 -- Min 0.5498470948012233 -- Max 0.5516819571865443
+Naive Bayes -- Test Set -- Mean 0.5505234919919861 -- Min 0.5434430652995142 -- Max 0.5572107081174439
+------------------------------------------------------------
+Feature count= 10
+Nearest Centroid -- Training Set -- Mean 0.5559585059022606 -- Min 0.5548959645020087 -- Max 0.5568507525334293
+Nearest Centroid -- Test Set -- Mean 0.5552401385499472 -- Min 0.5486238532110091 -- Max 0.5647058823529412
+Linear SVM -- Training Set -- Mean 0.5642753509842262 -- Min 0.5636197922912719 -- Max 0.5652695328896085
+Linear SVM -- Test Set -- Mean 0.563896506863691 -- Min 0.5568267674042094 -- Max 0.5691925734024179
+Decision Tree -- Training Set -- Mean 0.5868657441071059 -- Min 0.5860766324878576 -- Max 0.5875277328056605
+Decision Tree -- Test Set -- Mean 0.5535241190552991 -- Min 0.5485159201295197 -- Max 0.5616364421416234
+Naive Bayes -- Training Set -- Mean 0.5627307089500215 -- Min 0.5616410428609119 -- Max 0.5644420459315225
+Naive Bayes -- Test Set -- Mean 0.5612736619050203 -- Min 0.553804641122504 -- Max 0.5676200755531571
+------------------------------------------------------------
+Feature count= 20
+Nearest Centroid -- Training Set -- Mean 0.5652671344379647 -- Min 0.5645927276216061 -- Max 0.5662169454937939
+Nearest Centroid -- Test Set -- Mean 0.5649002390926979 -- Min 0.5594171613599568 -- Max 0.5726929303831625
+Linear SVM -- Training Set -- Mean 0.5767284296588218 -- Min 0.5758760463387139 -- Max 0.5774899562271392
+Linear SVM -- Test Set -- Mean 0.5759634720330206 -- Min 0.5680518078791149 -- Max 0.582685664939551
+Decision Tree -- Training Set -- Mean 0.7510535492316315 -- Min 0.7503657688340969 -- Max 0.7517989062649909
+Decision Tree -- Test Set -- Mean 0.530199806831632 -- Min 0.5232595790609822 -- Max 0.5391839378238342
+Naive Bayes -- Training Set -- Mean 0.575403252635656 -- Min 0.5746768042597079 -- Max 0.5767584097859327
+Naive Bayes -- Test Set -- Mean 0.5727470906564931 -- Min 0.5624392876416622 -- Max 0.5797711571675302
+------------------------------------------------------------
+Feature count= 30
+Nearest Centroid -- Training Set -- Mean 0.5704095467326546 -- Min 0.5698798359436836 -- Max 0.5710619415962104
+Nearest Centroid -- Test Set -- Mean 0.5699298799409491 -- Min 0.5653534808418781 -- Max 0.5780895844576363
+Linear SVM -- Training Set -- Mean 0.5837440800854752 -- Min 0.5825558247187778 -- Max 0.5848773760268633
+Linear SVM -- Test Set -- Mean 0.5826229828000719 -- Min 0.5729087965461414 -- Max 0.5922927461139896
+Decision Tree -- Training Set -- Mean 0.9321448714422129 -- Min 0.9317511332837647 -- Max 0.9326249640218747
+Decision Tree -- Test Set -- Mean 0.5178304309774442 -- Min 0.510254749568221 -- Max 0.5256341068537507
+Naive Bayes -- Training Set -- Mean 0.579225281596379 -- Min 0.5782934580560053 -- Max 0.5807039635426036
+Naive Bayes -- Test Set -- Mean 0.5764707784816907 -- Min 0.5652455477603886 -- Max 0.5840259039395574
+------------------------------------------------------------
+Feature count= 40
+Nearest Centroid -- Training Set -- Mean 0.5727421004343564 -- Min 0.5716187369582424 -- Max 0.5737122983750075
+Nearest Centroid -- Test Set -- Mean 0.5719698023808032 -- Min 0.5666486778197517 -- Max 0.5780895844576363
+Linear SVM -- Training Set -- Mean 0.5894201616204162 -- Min 0.5882282397524764 -- Max 0.5901900821490675
+Linear SVM -- Test Set -- Mean 0.5882031347985889 -- Min 0.579600647598489 -- Max 0.6008203799654577
+Decision Tree -- Training Set -- Mean 0.9841038560256908 -- Min 0.983917970858068 -- Max 0.9843735009114458
+Decision Tree -- Test Set -- Mean 0.5183595046223858 -- Min 0.5121424716675661 -- Max 0.5248272884283247
+Naive Bayes -- Training Set -- Mean 0.5826443645570236 -- Min 0.5806490298131581 -- Max 0.585184208001535
+Naive Bayes -- Test Set -- Mean 0.5774530545804273 -- Min 0.5695014029786316 -- Max 0.5901338514680483
+------------------------------------------------------------
+Feature count= 50
+Nearest Centroid -- Training Set -- Mean 0.575355281571795 -- Min 0.5742570695320557 -- Max 0.5763026923307549
+Nearest Centroid -- Test Set -- Mean 0.574236408750434 -- Min 0.5686994063680518 -- Max 0.5812196438208311
+Linear SVM -- Training Set -- Mean 0.5934676534421159 -- Min 0.5917899887271244 -- Max 0.594435450020987
+Linear SVM -- Test Set -- Mean 0.5926284144583728 -- Min 0.5856449001618996 -- Max 0.6038428324697754
+Decision Tree -- Training Set -- Mean 0.997850932263572 -- Min 0.9976734424656712 -- Max 0.9980931822270193
+Decision Tree -- Test Set -- Mean 0.5239072056207457 -- Min 0.5168915272531031 -- Max 0.5273610361575823
+Naive Bayes -- Training Set -- Mean 0.5826287724540227 -- Min 0.580212268393596 -- Max 0.5854120694617673
+Naive Bayes -- Test Set -- Mean 0.5771508303094962 -- Min 0.5675121424716676 -- Max 0.5926165803108808
+------------------------------------------------------------
+Feature count= 70
+Nearest Centroid -- Training Set -- Mean 0.5769874682777643 -- Min 0.5760799174921449 -- Max 0.577933681117707
+Nearest Centroid -- Test Set -- Mean 0.5754883987191834 -- Min 0.5708580679978413 -- Max 0.5833783054506206
+Linear SVM -- Training Set -- Mean 0.5978773175941619 -- Min 0.5969827069292207 -- Max 0.5986208550698567
+Linear SVM -- Test Set -- Mean 0.596492362867411 -- Min 0.5908256880733945 -- Max 0.6042746113989638
+Decision Tree -- Training Set -- Mean 0.9999796126401621 -- Min 0.9999760145831335 -- Max 0.9999880075792099
+Decision Tree -- Test Set -- Mean 0.5247167712957874 -- Min 0.5160802935462983 -- Max 0.5276848354020507
+Naive Bayes -- Training Set -- Mean 0.5768291651017987 -- Min 0.5740360976194759 -- Max 0.5790060681649197
+Naive Bayes -- Test Set -- Mean 0.5699300267358438 -- Min 0.5598488936859147 -- Max 0.5808506044905009
+------------------------------------------------------------
+Feature count= 90
+Nearest Centroid -- Training Set -- Mean 0.5781795306670505 -- Min 0.57706329599693 -- Max 0.5790489896264316
+Nearest Centroid -- Test Set -- Mean 0.5769455687148526 -- Min 0.5718294657312466 -- Max 0.5878035617916891
+Linear SVM -- Training Set -- Mean 0.6003226025106458 -- Min 0.5994003717695029 -- Max 0.6011033159441147
+Linear SVM -- Test Set -- Mean 0.599007168734314 -- Min 0.5906098219104156 -- Max 0.6068652849740933
+Decision Tree -- Training Set -- Mean 1.0 -- Min 1.0 -- Max 1.0
+Decision Tree -- Test Set -- Mean 0.5242525215801871 -- Min 0.5205612520237453 -- Max 0.5338370210469509
+Naive Bayes -- Training Set -- Mean 0.5751610000547667 -- Min 0.572980751933801 -- Max 0.5777418000839479
+Naive Bayes -- Test Set -- Mean 0.5653967790328429 -- Min 0.553804641122504 -- Max 0.5746977547495682
+------------------------------------------------------------
+Feature count= ALL
+Nearest Centroid -- Training Set -- Mean 0.5780668013938768 -- Min 0.5771232581008803 -- Max 0.578773160640403
+Nearest Centroid -- Test Set -- Mean 0.5766001851839964 -- Min 0.572369131138694 -- Max 0.5861845655693471
+Linear SVM -- Training Set -- Mean 0.6008970468588781 -- Min 0.5999208500227856 -- Max 0.6015830185285124
+Linear SVM -- Test Set -- Mean 0.5988129183058504 -- Min 0.5919050188882893 -- Max 0.6067573402417962
+Decision Tree -- Training Set -- Mean 1.0 -- Min 1.0 -- Max 1.0
+Decision Tree -- Test Set -- Mean 0.5215758277649931 -- Min 0.5160280626011873 -- Max 0.5282815198618307
+Naive Bayes -- Training Set -- Mean 0.5716819605560629 -- Min 0.5687353840618816 -- Max 0.5740720753133057
+Naive Bayes -- Test Set -- Mean 0.5600432795353387 -- Min 0.5511063140852671 -- Max 0.5713514680483592
