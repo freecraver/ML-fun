@@ -1,0 +1,24 @@
+Nearest Centroid -- Training Set -- Mean 0.5055967455314809
+Nearest Centroid -- Test Set -- Mean 0.4943628834933184
+Nearest Centroid -- Training Set -- Mean Precision 0.5048120486145029
+Nearest Centroid -- Test Set -- Mean Precision 0.49456307581307585
+Nearest Centroid -- Training Set -- Mean Recall 0.5051545002856127
+Nearest Centroid -- Test Set -- Mean Recall 0.49474969474969477
+Linear SVM -- Training Set -- Mean 0.9791074782119017
+Linear SVM -- Test Set -- Mean 0.9638151703369096
+Linear SVM -- Training Set -- Mean Precision 0.9770798502489854
+Linear SVM -- Test Set -- Mean Precision 0.9621260683760683
+Linear SVM -- Training Set -- Mean Recall 0.9783317959947165
+Linear SVM -- Test Set -- Mean Recall 0.9645070207570207
+Decision Tree -- Training Set -- Mean 1.0
+Decision Tree -- Test Set -- Mean 0.9452004517221908
+Decision Tree -- Training Set -- Mean Precision 1.0
+Decision Tree -- Test Set -- Mean Precision 0.9463690476190475
+Decision Tree -- Training Set -- Mean Recall 1.0
+Decision Tree -- Test Set -- Mean Recall 0.941910866910867
+Naive Bayes -- Training Set -- Mean 0.955151009251807
+Naive Bayes -- Test Set -- Mean 0.9454169019386411
+Naive Bayes -- Training Set -- Mean Precision 0.9499595944583031
+Naive Bayes -- Test Set -- Mean Precision 0.9480982905982905
+Naive Bayes -- Training Set -- Mean Recall 0.9547850225795674
+Naive Bayes -- Test Set -- Mean Recall 0.941910866910867
