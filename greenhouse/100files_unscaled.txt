@@ -1,0 +1,28 @@
+Linear -- mse -- Training Set -- Mean -290.11500383759824 -- Min -296.5494818360916 -- Max -284.6930582728518
+Linear -- mse -- Test Set -- Mean -290.6950355313987 -- Min -340.0677753819782 -- Max -232.8118351137918
+Linear -- mae -- Training Set -- Mean -9.616787290770862 -- Min -9.839263188202217 -- Max -9.46579466552975
+Linear -- mae -- Test Set -- Mean -9.638541178886216 -- Min -11.005460929178671 -- Max -7.5966308830796265
+Ridge -- mse -- Training Set -- Mean -290.12294945644356 -- Min -296.5569050427265 -- Max -284.7042012758197
+Ridge -- mse -- Test Set -- Mean -290.68185350492104 -- Min -339.9468754328117 -- Max -232.81803960433135
+Ridge -- mae -- Training Set -- Mean -9.617122211153491 -- Min -9.829957625072542 -- Max -9.4662753233565
+Ridge -- mae -- Test Set -- Mean -9.642474289521319 -- Min -11.02425613175069 -- Max -7.580780984646344
+Elastic Net -- mse -- Training Set -- Mean -290.8747828280662 -- Min -297.3032490532265 -- Max -285.46841609100426
+Elastic Net -- mse -- Test Set -- Mean -291.2811533904715 -- Min -340.70532217217067 -- Max -232.17013067753552
+Elastic Net -- mae -- Training Set -- Mean -9.61100407467339 -- Min -9.8260397319672 -- Max -9.470076917674987
+Elastic Net -- mae -- Test Set -- Mean -9.644009993023198 -- Min -10.997137462915827 -- Max -7.5862922946981435
+PLS -- mse -- Training Set -- Mean -466.2090777616486 -- Min -485.0225545454182 -- Max -429.2613166887115
+PLS -- mse -- Test Set -- Mean -479.3870637524151 -- Min -579.5040518017347 -- Max -365.34668356439255
+PLS -- mae -- Training Set -- Mean -12.637072404412036 -- Min -12.967025487935778 -- Max -12.143768065215752
+PLS -- mae -- Test Set -- Mean -12.778086445891073 -- Min -15.152176080432074 -- Max -9.99460598406414
+Decision Tree -- mse -- Training Set -- Mean -130.52231911927666 -- Min -134.25608381773486 -- Max -126.988234105866
+Decision Tree -- mse -- Test Set -- Mean -472.40616795295944 -- Min -567.2747291726698 -- Max -373.1605526877269
+Decision Tree -- mae -- Training Set -- Mean -6.3000338543839565 -- Min -6.442066666666648 -- Max -6.212575083333331
+Decision Tree -- mae -- Test Set -- Mean -13.364362189424138 -- Min -14.734215557142857 -- Max -11.52933805882353
+Random Forest -- mse -- Training Set -- Mean -44.553063441766824 -- Min -45.46878872827931 -- Max -43.84895541155803
+Random Forest -- mse -- Test Set -- Mean -319.579540888201 -- Min -371.398771792156 -- Max -255.15711762200414
+Random Forest -- mae -- Training Set -- Mean -3.9824023906966723 -- Min -4.058104900000014 -- Max -3.931427800000179
+Random Forest -- mae -- Test Set -- Mean -10.912572223300012 -- Min -11.972497664999999 -- Max -9.753121000000007
+AdaBoost -- mse -- Training Set -- Mean -631.4674798142693 -- Min -700.5182425463688 -- Max -519.2386727897982
+AdaBoost -- mse -- Test Set -- Mean -642.6173087651314 -- Min -714.838316843107 -- Max -536.5699732316934
+AdaBoost -- mae -- Training Set -- Mean -21.213713662420425 -- Min -22.583161694952537 -- Max -18.556625470612573
+AdaBoost -- mae -- Test Set -- Mean -21.223001409513824 -- Min -23.391121332775732 -- Max -19.086391809397348
