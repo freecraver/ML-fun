@@ -1,0 +1,4 @@
+unrestricted: 285.0052258307474
+time_left=120;per_run_time=30:1327.5774067319583 
+time_left=240;per_run_time=60:314.93902301234
+time_left=720;per_run_time=120:287.3386265851767

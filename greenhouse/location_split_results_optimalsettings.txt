@@ -1,0 +1,8 @@
+Linear ---- RMSE Results --  174.69498053932378
+Linear ---- MAE Results --  9.936097536393058
+Elastic Net ---- RMSE Results --  174.9429880976676
+Elastic Net ---- MAE Results --  9.876529179670847
+PLS ---- RMSE Results --  174.66118128993594
+PLS ---- MAE Results --  9.939816358982563
+Decision Tree ---- RMSE Results --  220.18444797450562
+Decision Tree ---- MAE Results --  11.268078121726205
