@@ -86,3 +86,39 @@ Augmentation: rotation_range=20,
 Epochs: 15
 Kernel-Size: 5
 Accuracy: 0.36598
+----------------------------------------
+File: fruit_aug_3.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 15
+Kernel-Size: 5
+Batch-Size: 32
+Accuracy: 0.28866
+----------------------------------------
+File: fruit_aug_4.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 25
+Kernel-Size: 5
+Batch-Size: 64
+Accuracy: 0.32474
+----------------------------------------
+File: fruit_aug_4.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 65
+Kernel-Size: 5
+Batch-Size: 16
+Accuracy: 0.40722

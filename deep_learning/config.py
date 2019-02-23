@@ -1,5 +1,5 @@
 # size of bigger image axis (height or width) - used for auto scaling mode, default=200
-TARGET_SIZE = 200
+TARGET_SIZE = 100
 # use the provided resize and crop functionality instead of auto scaling, default=True
 USE_CROPPING_CAR = True
 # use the provided resize and crop functionality instead of auto scaling, default=False
@@ -16,8 +16,8 @@ TARGET_WIDTH_FRUIT = None
 
 # used kernel for convolution layers, default=5
 KERNEL_SIZE_CAR = 5
-# used kernel for convolution layers, default=3
-KERNEL_SIZE_FRUIT = 3
+# used kernel for convolution layers, default=5
+KERNEL_SIZE_FRUIT = 5
 
 # number of epochs used for training, default=15
 EPOCHS_CAR = 15
