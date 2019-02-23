@@ -1,0 +1,88 @@
+# This file describes settings used for different results
+----------------------------------------
+----------------------------------------
+Car Dataset
+----------------------------------------
+File: car_wo_augmentation_all_strat.PNG
+Scale-Mode: Scale-only
+Augmentation: none
+Epochs: 15
+Accuracy: 0.02353
+----------------------------------------
+File: car_wo_augmentation_all_strat_cropped.PNG
+Scale-Mode: Scale+Crop
+Augmentation: none
+Epochs: 15
+Accuracy: 0.05294
+----------------------------------------
+File: car_aug_1.PNG
+Scale-Mode: Scale+Crop
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 15
+Accuracy: 0.60588
+----------------------------------------
+File: car_wo_augmentation_ksize5.PNG
+Scale-Mode: Scale+Crop
+Augmentation: None
+Epochs: 15
+Kernel-Size: 5 
+Accuracy: 0.06471
+----------------------------------------
+File: car_aug_2.PNG
+Scale-Mode: Scale+Crop
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 15
+Kernel-Size: 5
+Accuracy: 0.93529
+
+----------------------------------------
+----------------------------------------
+Fruit Dataset
+----------------------------------------
+File: fruit_wo_augmentation.PNG
+Scale-Mode: Scale-only
+Augmentation: none
+Epochs: 15
+Accuracy: 0.34536
+----------------------------------------
+File: fruit_wo_augmentation_scale_crop.PNG
+Scale-Mode: Scale+crop
+Augmentation: none
+Epochs: 15
+Accuracy: 0.30928
+----------------------------------------
+File: fruit_aug_1.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 15
+Accuracy: 0.34021
+----------------------------------------
+File: fruit_wo_augmentation_ksize5.PNG
+Scale-Mode: Scale-only
+Augmentation: none
+Epochs: 15
+Kernel-Size: 5
+Accuracy: 0.29381
+----------------------------------------
+File: fruit_aug_2.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 15
+Kernel-Size: 5
+Accuracy: 0.36598
