@@ -111,7 +111,7 @@ Kernel-Size: 5
 Batch-Size: 64
 Accuracy: 0.32474
 ----------------------------------------
-File: fruit_aug_4.PNG
+File: fruit_aug_5.PNG
 Scale-Mode: Scale-only
 Augmentation: rotation_range=20,
     width_shift_range=0.2,
@@ -122,3 +122,134 @@ Epochs: 65
 Kernel-Size: 5
 Batch-Size: 16
 Accuracy: 0.40722
+----------------------------------------
+File: fruit_aug_6.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 15
+Kernel-Size: 5
+Batch-Size: 8
+Image-Size:100x?
+Accuracy: 0.31443
+----------------------------------------
+File: fruit_aug_7.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 30
+Kernel-Size: 5
+Batch-Size: 4
+Image-Size:100x?
+Accuracy: 0.04124
+----------------------------------------
+File: fruit_aug_8.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 30
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size:100x?
+optimizer: SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+Accuracy: 0.33505
+----------------------------------------
+File: fruit_aug_9.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 30
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size:100x?
+optimizer: SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
+Accuracy: 0.04639
+----------------------------------------
+File: fruit_aug_10.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 75
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size:100x?
+optimizer: SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+Accuracy: 0.46391
+Train-time:4437.047s
+Pred-time:1.57s
+----------------------------------------
+File: fruit_aug_11.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=45,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 150
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size:100x?
+optimizer: SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+Accuracy: 0.34021
+Train-time:2083.92s
+Pred-time:1.632s
+----------------------------------------
+File: fruit_aug_12.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 350
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size:100x?
+optimizer: SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+Accuracy: 0.35052
+Train-time: 5412.131s
+Pred-time: 2.017s
+----------------------------------------
+File: fruit_wo_augmentation_gray.PNG
+Scale-Mode: Scale-only
+Augmentation: none
+Epochs: 15
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size: 100x?
+Accuracy: 0.12308
+Train-time: 158.571s (10 per epoch)
+----------------------------------------
+File: fruit_aug_14.PNG
+Scale-Mode: Scale-only
+Augmentation: rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True
+Epochs: 75
+Kernel-Size: 5
+Batch-Size: 16
+Image-Size:100x?
+optimizer: SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+Accuracy: 0.41753
+Train-time:906.809s
+Pred-time:1.294s
+
+
+

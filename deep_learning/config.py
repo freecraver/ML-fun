@@ -22,3 +22,6 @@ KERNEL_SIZE_FRUIT = 5
 # number of epochs used for training, default=15
 EPOCHS_CAR = 15
 EPOCHS_FRUIT = 15
+
+# use grayscale images instead of rgb images, default=False
+FRUIT_USE_GRAYSCALE=False
